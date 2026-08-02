@@ -2,7 +2,12 @@
 
 A lightweight, responsive, vanilla JavaScript Task Tracker application. This project allows users to create, manage, and persist daily tasks using LocalStorage.
 
-This project is from [roadmap.sh Task Tracker JS Project](https://muhammadhelsharkawy.github.io/Task-Tracker/).
+This project is from [roadmap.sh Task Tracker JS Project](https://roadmap.sh/projects/task-tracker-js).
+
+---
+## 🔗 Live Demo
+
+Check out the live app here: **[Live Demo Link](https://muhammadhelsharkawy.github.io/Task-Tracker/)**
 
 ---
 
